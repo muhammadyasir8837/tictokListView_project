@@ -1,2 +1,16 @@
-# tictokListView_project
-This project is a TikTok UI Clone built using Flutter. It replicates the core user interface of TikTok, including the vertical scrollable feed, designed with ListView for smooth performance. The project focuses purely on the UI/UX aspect, making it a great reference for learning and building modern social media interfaces.
+# tiktoklistview
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
